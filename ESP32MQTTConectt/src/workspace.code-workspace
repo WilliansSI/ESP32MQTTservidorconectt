@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP32MQTTservidorconectt",
+			"path": "../../../../../workspace/ESP32MQTTservidorconectt"
+		},
+		{
+			"name": "ESP32MQTTConectt",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
